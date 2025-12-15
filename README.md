@@ -2,6 +2,8 @@
 
 A Bornhuetter-Ferguson based reserving engine implementing Chain Ladder and Bornhuetter-Ferguson methods with an interactive Streamlit dashboard.
 
+[Try it out!](https://bornhuetter-ferguson-reserving-engine.streamlit.app/)
+
 ## Features
 
 - **Chain Ladder Method**: Industry-standard reserving method based on development factor analysis
