@@ -2,6 +2,8 @@
 
 A Bornhuetter-Ferguson based reserving engine implementing Chain Ladder and Bornhuetter-Ferguson methods with an interactive Streamlit dashboard.
 
+![dashboard](https://github.com/ArmandtErasmus/BFReservingEngine/blob/main/reserving.png)
+
 [Try it out!](https://bornhuetter-ferguson-reserving-engine.streamlit.app/)
 
 ## Features
