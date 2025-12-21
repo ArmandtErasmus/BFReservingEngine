@@ -1,4 +1,4 @@
-# Actuarial Reserving Tool
+# Bornhuetter-Ferguson Based Reserving Engine
 
 A Bornhuetter-Ferguson based reserving engine implementing Chain Ladder and Bornhuetter-Ferguson methods with an interactive Streamlit dashboard.
 
