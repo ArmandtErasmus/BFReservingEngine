@@ -10,7 +10,7 @@ A Bornhuetter-Ferguson based reserving engine implementing Chain Ladder and Born
 
 - **Chain Ladder Method**: Industry-standard reserving method based on development factor analysis
 - **Bornhuetter-Ferguson Method**: Combines prior expectations with observed development patterns
-- **Interactive Dashboard**: Professional Streamlit interface with advanced visualisations
+- **Interactive Dashboard**: Streamlit interface with advanced visualisations
 - **Object-Oriented Design**: Clean, extensible code architecture
 - **Comprehensive Analysis**: Development factors, incremental patterns, and method comparison
 
